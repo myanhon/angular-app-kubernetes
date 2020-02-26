@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: mikeyazure.azurecr.io/myanhon/angular-app-kubernetes:latest
+        image: mikeycontainer.azurecr.io/myanhon/angular-app-kubernetes:latest
         ports: 
         - containerPort: 80 
 --- 
